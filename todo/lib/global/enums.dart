@@ -1,0 +1,1 @@
+enum AlertType { SUCCESS, WARNING, ERROR, INFO, BASE }
